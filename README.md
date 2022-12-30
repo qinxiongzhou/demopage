@@ -1,1 +1,3 @@
 # demopage
+
+[test](./test.md)
